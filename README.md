@@ -4,7 +4,7 @@
 This repository contains Basic and Medium Level Java Programs.
 
 ## Programs :zap:
-- [Basic Programs](#l=List-of-Basic-Programs)
+- [Basic Programs](#List-of-Basic-Programs)
 - [Other Programs](#List-of-Other-Programs)
 
 ___
