@@ -10,7 +10,7 @@ This repository contains Basic and Medium Level Java Programs.
 ___
 
 
-#### List of Basic Programs:
+### List of Basic Programs:
 -  [Hello World](/Basic-Java/HelloWorld.java)
 - [Algebraic Operations - ADD, SUB, MUL, DIV with if/else](/Basic-Java/AlgebraicOperations.java)
 - [Algebraic Operations - ADD, SUB, MUL, DIV with switch/case](/Basic-Java/AlgrebraicOperationsSwitchCase.java)
