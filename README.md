@@ -22,6 +22,7 @@ ___
 | 7     | [Reversing a Number](/Basic-Java/ReverseNumber.java)         | A Simple Program to reverse a number                         | String             |
 | 8     | [Binary Validation](/Basic-Java/ValidateBinary.java)         | A Program which checks if the Input String is a Binary Number or not | Modulus            |
 | 9     | [Prime Number Checker](/Basic-Java/PrimeNumberChecker.java)  | A Program to check if the entered number is a Prime Number or not. | if/else, for loops |
+| 10    | [ASCII Value Of Character](/Basic-Java/AsciiOfCharacter.java) | A Program to find ASCII Value of a Character entered.        | TypeCasting        |
 
 ### List of Other Programs:
 
