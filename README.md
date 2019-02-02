@@ -11,16 +11,17 @@ ___
 
 ### List of Basic Programs:
 
-| S.No. | Title                                                        | Description                                                  | Method      |
-| ----- | :----------------------------------------------------------- | ------------------------------------------------------------ | ----------- |
-| 1     | [Hello World](/Basic-Java/HelloWorld.java)                   | A simple hello world program in java.                        | main method |
-| 2     | [Algebraic Operations](/Basic-Java/AlgebraicOperations.java) | Addition, Subtraction, Multiplication, Division Program.     | if/else     |
-| 3     | [Algebraic Operations](/Basic-Java/AlgrebraicOperationsSwitchCase.java) | Addition, Subtraction, Multiplication, Division Program.     | switch/case |
-| 4     | [Even - Odd Number Checker](/Basic-Java/EvenOdd.java)        | A Program to check if the entered number is Even or Odd.     | Modulus     |
-| 5     | [Positive Negative Number Checker](/Basic-Java/PositiveNegative.java) | A Program to check if the entered number is Positive or Negative. | if/else     |
-| 6     | [Calculate Average of numbers](/Basic-Java/CalculateAverageWithArray.java) | A Program to calculate average of numbers using Array.       | Array       |
-| 7     | [Reversing a Number](/Basic-Java/ReverseNumber.java)         | A Simple Program to reverse a number                         | String      |
-| 8     | [Binary Validation](/Basic-Java/ValidateBinary.java)         | A Program which checks if the Input String is a Binary Number or not | Modulus     |
+| S.No. | Title                                                        | Description                                                  | Method             |
+| ----- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
+| 1     | [Hello World](/Basic-Java/HelloWorld.java)                   | A simple hello world program in java.                        | main method        |
+| 2     | [Algebraic Operations](/Basic-Java/AlgebraicOperations.java) | Addition, Subtraction, Multiplication, Division Program.     | if/else            |
+| 3     | [Algebraic Operations](/Basic-Java/AlgrebraicOperationsSwitchCase.java) | Addition, Subtraction, Multiplication, Division Program.     | switch/case        |
+| 4     | [Even - Odd Number Checker](/Basic-Java/EvenOdd.java)        | A Program to check if the entered number is Even or Odd.     | Modulus            |
+| 5     | [Positive Negative Number Checker](/Basic-Java/PositiveNegative.java) | A Program to check if the entered number is Positive or Negative. | if/else            |
+| 6     | [Calculate Average of numbers](/Basic-Java/CalculateAverageWithArray.java) | A Program to calculate average of numbers using Array.       | Array              |
+| 7     | [Reversing a Number](/Basic-Java/ReverseNumber.java)         | A Simple Program to reverse a number                         | String             |
+| 8     | [Binary Validation](/Basic-Java/ValidateBinary.java)         | A Program which checks if the Input String is a Binary Number or not | Modulus            |
+| 9     | [Prime Number Checker](/Basic-Java/PrimeNumberChecker.java)  | A Program to check if the entered number is a Prime Number or not. | if/else, for loops |
 
 ### List of Other Programs:
 
