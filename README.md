@@ -9,23 +9,26 @@ This repository contains Basic and Medium Level Java Programs.
 
 ___
 
-
 ### List of Basic Programs:
--  [Hello World](/Basic-Java/HelloWorld.java)
--  [Algebraic Operations - ADD, SUB, MUL, DIV with if/else](/Basic-Java/AlgebraicOperations.java)
--  [Algebraic Operations - ADD, SUB, MUL, DIV with switch/case](/Basic-Java/AlgrebraicOperationsSwitchCase.java)
--  [Even - Odd Number Checker](/Basic-Java/EvenOdd.java)
--  [Positive Negative Number Checker](/Basic-Java/PositiveNegative.java)
--  [Calculate Average of numbers using Array](/Basic-Java/CalculateAverageWithArray.java)
--  [Reverse Number - A Simple Program to reverse a number](/Basic-Java/ReverseNumber.java)
--  [Binary Validation - A Program which checks if the Input String is a Binary Number or not](/Basic-Java/ValidateBinary.java)
 
+| S.No. | Title                                                        | Description                                                  | Method      |
+| ----- | :----------------------------------------------------------- | ------------------------------------------------------------ | ----------- |
+| 1     | [Hello World](/Basic-Java/HelloWorld.java)                   | A simple hello world program in java.                        | main method |
+| 2     | [Algebraic Operations](/Basic-Java/AlgebraicOperations.java) | Addition, Subtraction, Multiplication, Division Program.     | if/else     |
+| 3     | [Algebraic Operations](/Basic-Java/AlgrebraicOperationsSwitchCase.java) | Addition, Subtraction, Multiplication, Division Program.     | switch/case |
+| 4     | [Even - Odd Number Checker](/Basic-Java/EvenOdd.java)        | A Program to check if the entered number is Even or Odd.     | Modulus     |
+| 5     | [Positive Negative Number Checker](/Basic-Java/PositiveNegative.java) | A Program to check if the entered number is Positive or Negative. | if/else     |
+| 6     | [Calculate Average of numbers](/Basic-Java/CalculateAverageWithArray.java) | A Program to calculate average of numbers using Array.       | Array       |
+| 7     | [Reversing a Number](/Basic-Java/ReverseNumber.java)         | A Simple Program to reverse a number                         | String      |
+| 8     | [Binary Validation](/Basic-Java/ValidateBinary.java)         | A Program which checks if the Input String is a Binary Number or not | Modulus     |
 
 ### List of Other Programs:
 
-- [Matrix Multiplication](/Other-Java-Programs/MatrixMultiplication.java)
-- [Matrix Addition](/Other-Java-Programs/MatrixAddition.java)
-- [Binary to Decimal Conversion](/Other-Java-Programs/BinaryToDecimal.java)
+| S.No. | Title                                                        | Description                                         | Method     |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------- | ---------- |
+| 1     | [Matrix Multiplication](/Other-Java-Programs/MatrixMultiplication.java) | A Program to perform Matrix Multiplication          | 2-D Array  |
+| 2     | [Matrix Addition](/Other-Java-Programs/MatrixAddition.java)  | A Program to perform Matrix Addition                | 2-D Array  |
+| 3     | [Binary to Decimal Conversion](/Other-Java-Programs/BinaryToDecimal.java) | A Program to covert Input Binary Number to Decimal. | while loop |
 
 
 ## License and Copyright :white_check_mark:
