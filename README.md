@@ -6,7 +6,7 @@ This repository contains Basic and Medium Level Java Programs.
 ## Programs :zap:
 - [Basic Programs](#List-of-Basic-Programs)
 - [Other Programs](#List-of-Other-Programs)
-- [Cryptography](#List-of-Cryptography-Algorithms:)
+- [Cryptography](#list-of-cryptography-algorithms)
 
 ___
 
