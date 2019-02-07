@@ -26,12 +26,13 @@ ___
 
 ### List of Other Programs:
 
-| S.No. | Title                                                        | Description                                                  | Method             |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
-| 1     | [Matrix Multiplication](/Other-Java-Programs/MatrixMultiplication.java) | A Program to perform Matrix Multiplication                   | 2-D Array          |
-| 2     | [Matrix Addition](/Other-Java-Programs/MatrixAddition.java)  | A Program to perform Matrix Addition                         | 2-D Array          |
-| 3     | [Binary to Decimal Conversion](/Other-Java-Programs/BinaryToDecimal.java) | A Program to covert Input Binary Number to Decimal.          | while loop         |
-| 4     | [Anagram Checker](/Other-Java-Programs/Anagram.java)         | A Program to check if the entered Strings are anagram or not. | if/else, for loops |
+| S.No. | Title                                                        | Description                                                  | Method                                       |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- |
+| 1     | [Matrix Multiplication](/Other-Java-Programs/MatrixMultiplication.java) | A Program to perform Matrix Multiplication                   | 2-D Array                                    |
+| 2     | [Matrix Addition](/Other-Java-Programs/MatrixAddition.java)  | A Program to perform Matrix Addition                         | 2-D Array                                    |
+| 3     | [Binary to Decimal Conversion](/Other-Java-Programs/BinaryToDecimal.java) | A Program to covert Input Binary Number to Decimal.          | while loop                                   |
+| 4     | [Anagram Checker](/Other-Java-Programs/Anagram.java)         | A Program to check if the entered Strings are anagram or not. | if/else, for loops, Array, String Operations |
+| 5     | [Remove Word From String](/Other-Java-Programs/RemoveWordFromString.java) | A Program to remove specific word from String.               | if/else, String Operations                   |
 
 
 ## License and Copyright :white_check_mark:
