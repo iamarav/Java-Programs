@@ -34,7 +34,7 @@ ___
 | 3     | [Binary to Decimal Conversion](/Other-Java-Programs/BinaryToDecimal.java) | A Program to covert Input Binary Number to Decimal.          | while loop                                   |
 | 4     | [Anagram Checker](/Other-Java-Programs/Anagram.java)         | A Program to check if the entered Strings are anagram or not. | if/else, for loops, Array, String Operations |
 | 5     | [Remove Word From String](/Other-Java-Programs/RemoveWordFromString.java) | A Program to remove specific word from String.               | if/else, String Operations                   |
-| 6     | [Finding Missing Number](\Other-Java-Programs/FindingMissingNumberInArray.java) | Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found. |                                              |
+| 6     | [Finding Missing Number](/Other-Java-Programs/FindingMissingNumberInArray.java) | Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found. |                                              |
 
 ### List of Cryptography Algorithms:
 
