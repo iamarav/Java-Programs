@@ -10,7 +10,8 @@ public class RandomNumberGeneration {
 		Scanner sm = new Scanner(System.in); 
 		
 		System.out.print("Enter 0 to generate any random number OR "
-				+ "\nEnter 1 to generate a random number between a range: ");
+				+ "\nEnter 1 to generate a random number between a range"
+				+ "\nEnter 2 to generate a random of fixed length: ");
 		
 		// DEFINED SEPARATELY FOR BETTER UNDERSTANDING
 		
@@ -21,12 +22,14 @@ public class RandomNumberGeneration {
 		else if (option ==1) {
 			generateRandomBetweenRange();			
 		}
+		else if (option ==2) {
+			generateRandomWithLength();
+		}
 		else {
 			System.out.println("Invalid Option. Try Again");
 			end();
 		}		
 		sm.close();
-
 	}
 	
 
@@ -57,8 +60,20 @@ public class RandomNumberGeneration {
 		int a = (int) ((Math.random()*((upper-lower)+1))+lower);
 	    System.out.println("OUTPUT: "+a);
 	    end();
-	
 	}
+	
+
+	private static void generateRandomWithLength() {
+		Scanner ss = new Scanner(System.in);
+		System.out.print("Enter the length (int max =10): ");
+		int len = ss.nextInt();
+		
+		int a = (int) (Math.random()*(Math.pow(10, len)));
+		System.out.println("OUTPUT: "+a);
+		ss.close();
+		end();
+	}
+
 	
 	private static void end() {
 		System.out.println("---\nThe Program has ended.");
