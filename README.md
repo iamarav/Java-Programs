@@ -25,6 +25,7 @@ ___
 | 9     | [Prime Number Checker](/Basic-Java/PrimeNumberChecker.java)  | A Program to check if the entered number is a Prime Number or not. | if/else, for loops     |
 | 10    | [ASCII Value Of Character](/Basic-Java/AsciiOfCharacter.java) | A Program to find ASCII Value of a Character entered.        | TypeCasting            |
 | 11    | [Generate Random Number](/Basic-Java/RandomNumberGeneration.java) | A Program to generate Random Number, Also to generate Random Number between a Range. | Math.random() function |
+| 12    | [Factorial](/Basic-Java/Factorial.java)                      | A Program to find Factorial of an Integer.                   | while loop             |
 
 ### List of Other Programs:
 
