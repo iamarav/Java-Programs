@@ -39,6 +39,7 @@ ___
 | 5     | [Remove Word From String](/Other-Java-Programs/RemoveWordFromString.java) | A Program to remove specific word from String.               | if/else, String Operations                   |
 | 6     | [Finding Missing Number](/Other-Java-Programs/FindingMissingNumberInArray.java) | Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found. | Array Operations                             |
 | 7     | [Quadratic Equation](/Other-Java-Programs/QuadraticEquation.java) | A Program to find real values for a Quadratic Equation with discriminant value method. | Arithmetic Operations                        |
+| 8     | [Print a Star Pattern for Input](/Other-Java-Programs/StarPattern.java) | Program to print a star Pattern for an input.                | for loops                                    |
 
 ### List of Cryptography Algorithms:
 
