@@ -41,6 +41,7 @@ ___
 | 7     | [Quadratic Equation](/Other-Java-Programs/QuadraticEquation.java) | A Program to find real values for a Quadratic Equation with discriminant value method. | Arithmetic Operations                        |
 | 8     | [Print a Star Pattern for Input](/Other-Java-Programs/StarPattern.java) | Program to print a star Pattern for an input.                | for loops                                    |
 | 9     | [Fibonacci Series](/Other-Java-Programs/Fibonacci.java)      | Program to display Fibonacci series using for loop.          | for loop                                     |
+| 10    | [Fibonacci Series](/Other-Java-Programs/FibonacciWhile.java) | Program to display Fibonacci series using while loop.        | while loop                                   |
 
 ### List of Cryptography Algorithms:
 
