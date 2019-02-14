@@ -40,6 +40,7 @@ ___
 | 6     | [Finding Missing Number](/Other-Java-Programs/FindingMissingNumberInArray.java) | Given an array C of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found. | Array Operations                             |
 | 7     | [Quadratic Equation](/Other-Java-Programs/QuadraticEquation.java) | A Program to find real values for a Quadratic Equation with discriminant value method. | Arithmetic Operations                        |
 | 8     | [Print a Star Pattern for Input](/Other-Java-Programs/StarPattern.java) | Program to print a star Pattern for an input.                | for loops                                    |
+| 9     | [Fibonacci Series](/Other-Java-Programs/Fibonacci.java)      | Program to display Fibonacci series using for loop.          | for loop                                     |
 
 ### List of Cryptography Algorithms:
 
